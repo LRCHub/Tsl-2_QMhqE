@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "わたしのアール",
+  "base_artist": "和田たけあき (くらげP)",
+  "createdAt": "2026-02-12T07:23:31.363705Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "わたしのアール",
+      "artist": "こはならむ",
+      "has_synced": true,
+      "path": "select/01_わたしのアール_こはならむ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "わたしのアール",
+      "artist": "WADATAKEAKI KurageP",
+      "has_synced": true,
+      "path": "select/02_わたしのアール_WADATAKEAKI_KurageP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "わたしのアール",
+      "artist": "和田たけあき(くらげP)",
+      "has_synced": false,
+      "path": "select/pl_01_わたしのアール_和田たけあき(くらげP).txt"
+    }
+  ]
+}
